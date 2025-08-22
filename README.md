@@ -33,7 +33,7 @@ From **RF front-ends** and **link budgets** to **cloud-native raster pipelines**
 
 ### 🎓 Background
 - MSc Satellite Systems Engineering — *University of Bradford, UK* 
-- Bsc Informatics — *EIT*  
+- Bsc Computer Engineering — *EIT*  
 
 📜 Certified: MATLAB Proficiency | STK Level 1  
 
