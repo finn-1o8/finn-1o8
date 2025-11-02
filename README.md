@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Finan W. Mikael  
+#  Hi, I’m Finan W. Mikael  
 
-🚀 **Satellite & Geospatial Software Engineer** | MSc Satellite Systems Engineering | RF, DSP & Applied AI in Remote Sensing  
+ **Satellite & Geospatial Software Engineer** | MSc Satellite Systems Engineering | RF, DSP & Applied AI in Remote Sensing  
 
 ---
 
-### 🌍 Who I Am
+###  Who I Am
 I bridge **advanced software engineering** with **satellite systems** and **AI-driven geospatial analysis**.  
 From **RF front-ends** and **link budgets** to **cloud-native raster pipelines** and **remote sensing ML**, I build systems that scale — both in orbit and on the ground.  
 
@@ -33,7 +33,7 @@ From **RF front-ends** and **link budgets** to **cloud-native raster pipelines**
 
 ### 🎓 Background
 - MSc Satellite Systems Engineering — *University of Bradford, UK* 
-- BEng Computer Engineering — *EIT*  
+- BSc — *EIT*  
 
 📜 Certified: MATLAB Proficiency | STK Level 1  
 
