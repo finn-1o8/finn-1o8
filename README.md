@@ -1,4 +1,4 @@
-#  Hi, I’m Finan W. Mikael  
+#  Hi, I’m Finan Weldemikael  
 
  **Satellite & Geospatial Software Engineer** | MSc Satellite Systems Engineering | RF, DSP & Applied AI in Remote Sensing  
 
