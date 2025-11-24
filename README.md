@@ -25,11 +25,6 @@ From **RF front-ends** and **link budgets** to **cloud-native raster pipelines**
 
 ### 📂 Featured Work
 - **🌊 Few-Shot Flood Delineation** → Cloud-native Sentinel-2 flood mapping pipelines with SatMAE pretraining + FastAPI inference [🔗](https://github.com/finn-1o8/Few-shot-Flood-Delineation)  
-- **📡 RF Front-End Prototype** → Antenna + LNA/filter chain, validated with VNA & SDR testing  
-- **🛰️ GEO Link Budget Simulation** → MATLAB-driven ACM strategies, +15% throughput under variable SNR  
-- **📶 SDR Signal Classifier** → Real-time BPSK/QPSK/16-QAM classifier (>95% accuracy)  
-
----
 
 ### 🎓 Background
 - MSc Satellite Systems Engineering — *University of Bradford, UK* 
